@@ -6,8 +6,10 @@ Sensors used:
 MPU9250:
 - Only the data from the mpu6050 accelerometer are read.
 - for adding support to the magnetometer.
+  
 TMP102:
 - temperature sensor.
+  
 GPS:
 - Ublox 6M - to be added
 
