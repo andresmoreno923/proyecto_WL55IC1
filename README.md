@@ -46,8 +46,13 @@ STM32WL55JC microcontroller multiprotocol LPWAN dual-core 32-bit (Arm® Cortex®
 
 ## Arduino-compatible headers
 
-![Texto alternativo](../imagenes/tu_imagen.jpg)
+![Texto alternativo](/img/nucleo_wl55jc_arduino_left_2021_2_1.png)
 
+![Texto alternativo](/img/nucleo_wl55jc_arduino_right_2021_2_1.png)
 
 ## Morpho headers
+
+![Texto alternativo](/img/nucleo_wl55jc_morpho_left_2021_2_1.png)
+
+![Texto alternativo](/img/nucleo_wl55jc_morpho_right_2021_2_1.png)
 
