@@ -1,17 +1,17 @@
 # proyecto_WL55IC1
-Ejemplo de uso de sensores I2C, GPS y SPI con la tarjate STM
+Example of using I2C, GPS and SPI sensors with the STM card
 
-Sensores utilizados:
+Sensors used:
 
 MPU9250:
-          - solo se leen los datos del acelerometro mpu6050.
-          - por agregar el soporte al magnetometro.
+- Only the data from the mpu6050 accelerometer are read.
+- for adding support to the magnetometer.
 TMP102:
-          - sensor de temperatura.
+- temperature sensor.
 GPS:
-          - Ublox 6M - por agregar
+- Ublox 6M - to be added
 
-se reciben mensajes TLV por UART1, y se devuelve el mensaje por UART2, estructura TLV que simula el medidor de agua.
+TLV messages are received through UART1, and the message is returned through UART2, a TLV structure that simulates the water meter.
 
 # Microcontroller features
 
@@ -37,4 +37,17 @@ STM32WL55JC microcontroller multiprotocol LPWAN dual-core 32-bit (Arm® Cortex®
 - Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
 - Suitable for rapid prototyping of end nodes based on LoRaWAN®, Sigfox™, wM-Bus, and many other proprietary protocols
 - Fully open hardware platform
+- 
+# Pinout
+
+## Pins Legend
+
+![Texto alternativo](/img/pinout_legend_2017-06-28-2.png)
+
+## Arduino-compatible headers
+
+![Texto alternativo](../imagenes/tu_imagen.jpg)
+
+
+## Morpho headers
 
